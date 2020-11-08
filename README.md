@@ -7,6 +7,7 @@ Tugas Pertemuan 7 <br>
 1. Latihan 3
 
 untuk memenuhi tugas latihan 3:
+
 ![latihan3tugas.PNG](foto/latihan3tugas.PNG)
 
 ```python
@@ -21,7 +22,8 @@ else:
 ```
 
 berikut adalah hasil dari pernyataan di atas:
-![latihan3run.PNG](foto/latihan3.PNG)
+
+![latihan3run.PNG](foto/latihan3run.PNG)
 
 
 
