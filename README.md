@@ -8,7 +8,7 @@ Tugas Pertemuan 7 <br>
 
 untuk memenuhi tugas latihan 3:
 
-![latihan3tugas.png](foto/latihan3tugas.png)
+![latihan3tugas.PNG](Foto/latihan3tugas.PNG)
 
 ```python
 #!/usr/bin/python3
@@ -23,7 +23,7 @@ else:
 
 berikut adalah hasil dari pernyataan di atas:
 
-![latihan3run.png](foto/latihan3run.png)
+![latihan3run.PNG](Foto/latihan3run.PNG)
 
 
 
