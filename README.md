@@ -58,5 +58,6 @@ hasil inputan dengan hasil output yang salah sebagai berikut :
 ![runlab2pysalah.PNG](Foto/runlab2pysalah.PNG)
 
 
+TERIMAKASIH SEKIAN...
 
 
